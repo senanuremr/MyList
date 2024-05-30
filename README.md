@@ -4,4 +4,4 @@ My List App, kullanıcıların günlük görevlerini, alışveriş listelerini v
 
 
 <img src="http://![Uploading mylistbanner.png…]()
-url/to/img.png" alt="alt text" width="320" height="180">
+url/to/img.png">
